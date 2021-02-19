@@ -1,0 +1,13 @@
+.update-profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-info-data {
+  margin: 20px;
+}
+
+.edit-form {
+  flex-direction: inherit;
+}
